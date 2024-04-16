@@ -1,5 +1,4 @@
 # UNHAS-GPT
-# UNHAS-GPT
 
 UNHAS-GPT (Universitas Hasanuddin - Generative Pre-trained Transformer) is an AI-powered natural language processing model developed by IMRAN ABU LIBDA.
 
